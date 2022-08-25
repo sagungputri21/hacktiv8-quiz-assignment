@@ -5,11 +5,10 @@ This repository was created to save my assignments and quiz data while participa
 
 *-- You can see the mini projects that I've done on the links below --*
 
-ASSIGNMENT :
+#### ASSIGNMENT :
   * Assignment 1 : [Simple Calculator with basic JavaScript](/)
 
+---
 
-
-
-DAILY QUIZ :
+#### DAILY QUIZ :
   * Assignment 1 : [Simple Calculator with basic JavaScript](/)
