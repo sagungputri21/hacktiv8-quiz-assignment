@@ -1,0 +1,12 @@
+[
+    {
+      "id":"belajar-js",
+      "todo":"belajar JS",
+      "status":"true"
+    },
+    {
+      "id":"jemput-adik",
+      "todo":"jemput adik",
+      "status":"false"
+    }
+  ]
