@@ -11,4 +11,4 @@ This repository was created to save my assignments and quiz data while participa
 ---
 
 #### DAILY QUIZ :
-  * Assignment 1 : [Simple Calculator with basic JavaScript](/)
+  * Assignment 1 : [Todo List Javascript]()
