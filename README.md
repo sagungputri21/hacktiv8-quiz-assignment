@@ -1,5 +1,7 @@
 ##  Simple Calculator with Vanilla JS and Taiwlind
 
+<img src="https://user-images.githubusercontent.com/93807864/188194194-7e409844-9e44-4939-9d70-adac33cf7ac7.png" width="350">
+
 ### *To View The Site*
 ---
 
