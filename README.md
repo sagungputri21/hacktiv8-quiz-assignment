@@ -1,14 +1,12 @@
-## 🧩 Hacktiv8 Quiz Task and Assignment
+##  Simple Calculator with Vanilla JS and Taiwlind
 
-This repository was created to save my assignments and quiz data while participating in Hacktiv8 program
-
-
-*-- You can see the mini projects that I've done on the links below --*
-
-#### ASSIGNMENT :
-  * Assignment 1 : [Simple Calculator with basic JavaScript](/)
-
+### *To View The Site*
 ---
 
-#### DAILY QUIZ :
-  * Assignment 1 : [Simple Calculator with basic JavaScript](/)
+Follow these steps:
+
+1. Clone the repo.
+
+2. Open the directory folder on VS-Code or any text editor of your choice.
+
+4. Right-click on the index.html file and click Open With Live Server or open index.html from File Explore.
