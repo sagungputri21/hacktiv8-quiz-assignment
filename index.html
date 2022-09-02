@@ -3,20 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GP Calculator</title>
   <link href="./src/css/output.css" rel="stylesheet">
 </head>
-<body>
+<body class="bg-indigo-200">
   <div class="flex justify-center mx-auto items-center bg-gray-900 max-w-fit py-6 rounded-lg mt-20">
     <div class="flex flex-col">
       <h1 class="text-xl font-bold text-slate-200 text-center underline underline-offset-8 decoration-slate-400 -mt-3">
         <span class="text-red-400">GP</span> Calculator
       </h1>
-      <section id="Display-area" class="bg-black mt-5 mx-5">
-        <div class="flex items-end">
-        <div class="currentInput"></div>
-        <div class="answerScreen text-white pt-10">0</div>
-      </div>
+      <div class="flex justify-end items-end bg-black mx-5 mt-5">
+      <section id="Display-area" class="m-2 flex items-end">
+          <div class="currentInput text-white pt-10 text-2xl"></div>
+          <div class="answerScreen text-white pt-10">0</div>
       </section>
+      </div>
       <hr class="mb-5 mx-5 border border-gray-700">
       <section class="flex gap-4 justify-center mx-5">
         <diV class="grid grid-cols-3 gap-3">
